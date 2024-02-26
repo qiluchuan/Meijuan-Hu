@@ -10,7 +10,7 @@
 
 ---
 
-## Passionate about exploring and advancing the latest in [Your Field]!
+## Exploring the Beauty of Data Science!
 
 ---
 
