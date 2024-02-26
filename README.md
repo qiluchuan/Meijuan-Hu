@@ -18,9 +18,9 @@
 
 | Screenshot | Project | Technologies | Description |
 | --- | --- | --- | --- |
+| ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/ML%20house%20price.png) | ** ** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
 | ![Project Image](path_to_project_screenshot) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
-| ![Project Image](path_to_project_screenshot) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
-
----
+ 
+ 
 
 > **Note:** Replace `path_to_your_logo_or_image` and `path_to_project_screenshot` with the actual paths to your images. Also, update the links to point to your portfolio, LinkedIn profile, and email address.
