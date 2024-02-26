@@ -19,7 +19,8 @@
 | Screenshot | Project | Technologies | Description |
 | --- | --- | --- | --- |
 | ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/ML%20house%20price.png) | ** ** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
-| ![Project Image]([path_to_project_screenshot](https://github.com/qiluchuan/Meijuan-Hu/blob/main/heatmap.png)) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
+| ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/heatmap.png) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
+| ![Project Image]( ) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
  
  
 
