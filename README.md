@@ -1,9 +1,9 @@
 # Meijuan Hu
 
 <div align="center">
-  <img src=" " alt="Your Name Logo" width="200"/>
+  <img src="https://github.com/qiluchuan/Meijuan-Hu/blob/main/logo.png " alt="Your Name Logo" width="200"/>
   <br/>
-  <a href="https://meijuandataart.com ">PORTFOLIO</a> |
+  <a href="https://www.meijuanhudataart.com/">PORTFOLIO</a> |
   <a href="https://www.linkedin.com/in/meijuan-hu-007524262/ ">LINKEDIN</a> |
   <a href="mailto:meijuan.hu@mtsu.edu">E-MAIL</a>
 </div>
