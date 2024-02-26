@@ -20,7 +20,7 @@
 | --- | --- | --- | --- |
 | ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/ML%20house%20price.png) | ** ** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
 | ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/heatmap.png) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
-| ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/flower%20classification1.jpg) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
+| ![Project Image]( https://github.com/qiluchuan/Meijuan-Hu/blob/main/flower%20classification.jpg) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
  
  
 
