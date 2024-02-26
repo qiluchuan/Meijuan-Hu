@@ -18,9 +18,9 @@
 
 | Screenshot | Project | Technologies | Description |
 | --- | --- | --- | --- |
-| ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/ML%20house%20price.png) | ** ** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
-| ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/heatmap.png) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
-| ![Project Image]( https://github.com/qiluchuan/Meijuan-Hu/blob/main/flower%20classification.jpg) | **Your Project Name** | `Tech1` `Tech2` `Tech3` | Short description of your project. |
+| ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/ML%20house%20price.png) | ** ** | `Python` `Scikit-learn` `Jypyter Notebook` `KRR` `SVR` `DNN`| Short description of your project. |
+| ![Project Image](https://github.com/qiluchuan/Meijuan-Hu/blob/main/heatmap.png) | **Your Project Name** | `Python` `Scikit-learn``Heatmap` `Lasso` `Random Forest Tree` | Short description of your project. |
+| ![Project Image]( https://github.com/qiluchuan/Meijuan-Hu/blob/main/flower%20classification.jpg) | **Your Project Name** |`Python` `Scikit-learn` `Jypyter Notebook` `CNN` `Transfer Learning` `VGG 19` | Short description of your project. |
  
  
 
